@@ -11,7 +11,7 @@ class omnivora(karnivora, herbivora):
     def __init__(self):
         karnivora.__init__(self)
         herbivora.__init__(self)
-        self.mcd = 'burger'
+        self.mcd = 'cheseeburger'
 
 objo = omnivora()
 print(vars(objo))
