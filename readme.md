@@ -28,7 +28,7 @@ Someone said:
 
 #
 
-[click_here](tokopedia.com)
+[click_here](https://www.tokopedia.com/)
 
 [ini gambarku](https://www.thenational.ae/arts-culture/guitar-hero-the-perpetual-relevance-of-jimi-hendrix-1.238074)
 
