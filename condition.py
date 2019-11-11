@@ -5,7 +5,7 @@
 #....
 
 nilai = 92
-
+##
 if nilai >= 82:
     print ('a')
 elif nilai >= 72 and nilai <= 81:
